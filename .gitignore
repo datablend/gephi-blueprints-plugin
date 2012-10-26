@@ -9,3 +9,4 @@ keystore.ks
 dist/**
 build/**
 nbproject/private/**
+wiki-images
