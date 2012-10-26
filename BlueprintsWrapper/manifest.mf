@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.gephi.lib.blueprints
+OpenIDE-Module-Localizing-Bundle: org/gephi/lib/blueprints/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
