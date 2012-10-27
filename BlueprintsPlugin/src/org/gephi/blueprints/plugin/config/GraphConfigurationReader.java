@@ -20,6 +20,8 @@ import org.apache.commons.lang.Validate;
  * @see FluxGraphGraphConfiguration
  * @see Neo4jGraphConfiguration
  * @author Timmy Storms (timmy.storms@gmail.com)
+ * @author Davy Suvee (dsuvee@its.jnj.com)
+ * @author Davy Suvee (info@datablend.be)
  */
 public final class GraphConfigurationReader {
     

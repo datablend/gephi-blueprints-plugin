@@ -24,6 +24,8 @@ import org.postgresql.Driver;
  * The configuration file should be placed in gephi-folder/ext/graph.
  * 
  * @author Timmy Storms (timmy.storms@gmail.com)
+ * @author Davy Suvee (dsuvee@its.jnj.com)
+ * @author Davy Suvee (info@datablend.be)
  */
 public final class FluxGraphGraphConfiguration implements GraphConfiguration {
 

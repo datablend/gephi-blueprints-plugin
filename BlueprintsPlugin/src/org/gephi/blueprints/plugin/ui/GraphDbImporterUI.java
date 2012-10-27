@@ -16,6 +16,8 @@ import org.openide.util.lookup.ServiceProvider;
  * The user interface that provides configuration for the {@link GraphDbImporter}.
  * 
  * @author Timmy Storms (timmy.storms@gmail.com)
+ * @author Davy Suvee (dsuvee@its.jnj.com)
+ * @author Davy Suvee (info@datablend.be)
  */
 @ServiceProvider(service = ImporterUI.class)
 public final class GraphDbImporterUI implements ImporterUI {

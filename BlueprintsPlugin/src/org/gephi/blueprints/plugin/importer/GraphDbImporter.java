@@ -23,6 +23,8 @@ import org.openide.util.NbBundle;
  * {@link DatabaseImporter} for graph databases (supported by the Blueprints API).
  * 
  * @author Timmy Storms (timmy.storms@gmail.com)
+ * @author Davy Suvee (dsuvee@its.jnj.com)
+ * @author Davy Suvee (info@datablend.be)
  */
 public final class GraphDbImporter implements DatabaseImporter, LongTask {
     

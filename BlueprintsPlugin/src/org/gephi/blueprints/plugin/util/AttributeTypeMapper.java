@@ -9,6 +9,8 @@ import org.gephi.data.attributes.api.AttributeType;
  * Maps java types to Gephi {@link AttributeType}s.
  * 
  * @author Timmy Storms (timmy.storms@gmail.com)
+ * @author Davy Suvee (dsuvee@its.jnj.com)
+ * @author Davy Suvee (info@datablend.be)
  */
 public final class AttributeTypeMapper {
 

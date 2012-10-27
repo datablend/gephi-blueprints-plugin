@@ -9,6 +9,8 @@ import org.openide.util.lookup.ServiceProvider;
  * Graph database importer builder.
  * 
  * @author Timmy Storms (timmy.storms@gmail.com)
+ * @author Davy Suvee (dsuvee@its.jnj.com)
+ * @author Davy Suvee (info@datablend.be)
  */
 @ServiceProvider(service = DatabaseImporterBuilder.class)
 public class GraphDbImporterBuilder implements DatabaseImporterBuilder {
