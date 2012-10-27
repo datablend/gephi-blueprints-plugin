@@ -1,3 +1,9 @@
+# Gephi Blueprints Plugin
+
+More information on how to install, configure and use the Gephi Blueprints plugin can be found on the [wiki](https://github.com/datablend/gephi-blueprints-plugin/wiki)-section of this repository. The section below specifies how to setup the required development environment for the Gephi Blueprints Plugin.
+
+## Introduction 
+
 This repository is an out of the box development environment for [Gephi](http://gephi.org) plugins. It contains the latest stable version of Gephi modules so you can run a development version of Gephi in seconds. Checkout the [Bootcamp](https://github.com/gephi/gephi-plugins-bootcamp) for examples of the different type of plugins you can create.
 
 Branches contains Gephi Plugins supported by the core team:
